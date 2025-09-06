@@ -259,7 +259,7 @@ header {
 }
 
 header .head {
-    margin-left: 40rem;
+    margin-left: 30rem;
     margin-top: 1rem;
 }
 
@@ -394,4 +394,5 @@ li a:hover {
 
 a {
     text-decoration: none;
+
 }
