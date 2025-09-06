@@ -2,11 +2,11 @@
 **🌱 WasteWise – Sustainable Development Initiative**
 
 WasteWise is a web platform dedicated to promoting sustainable waste management and eco-friendly practices. It helps users adopt responsible habits by providing awareness, practical tips, and links to real-world recycling and upcycling solutions.
-<br>
+<br><br>
 **🔹 Overview**
 
 The goal of WasteWise is to encourage eco-conscious behavior and waste reduction through simple, educational, and interactive content.
-<br>
+<br><br>
 **Tech Stack:**
 
 HTML – For content structure<br>
@@ -21,7 +21,7 @@ JavaScript – For interactivity and transitions<br><br>
 ✔ Informative content on composting, segregation, and upcycling<br>
 ✔ Basic animations and interactive elements<br>
 ✔ Links to recycling and upcycling partners for practical solutions<br>
-
+<br>
 **🔮 Future Roadmap**
 
 📱 Improve responsiveness across all devices<br>
